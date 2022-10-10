@@ -3,9 +3,9 @@ package service
 import (
 	"log"
 
-	"github.com/A-u-usman/golang_gin_clean_api/dto"
-	"github.com/A-u-usman/golang_gin_clean_api/entity"
-	"github.com/A-u-usman/golang_gin_clean_api/repository"
+	"github.com/sheriffdeen-yusuf/go-api-db/dto"
+	"github.com/sheriffdeen-yusuf/go-api-db/entity"
+	"github.com/sheriffdeen-yusuf/go-api-db/repository"
 	"github.com/mashingan/smapping"
 	"golang.org/x/crypto/bcrypt"
 )

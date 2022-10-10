@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/A-u-usman/golang_gin_clean_api/dto"
-	"github.com/A-u-usman/golang_gin_clean_api/entity"
-	"github.com/A-u-usman/golang_gin_clean_api/helper"
-	"github.com/A-u-usman/golang_gin_clean_api/service"
+	"github.com/sheriffdeen-yusuf/go-api-db/dto"
+	"github.com/sheriffdeen-yusuf/go-api-db/entity"
+	"github.com/sheriffdeen-yusuf/go-api-db/helper"
+	"github.com/sheriffdeen-yusuf/go-api-db/service"
 	"github.com/gin-gonic/gin"
 )
 
