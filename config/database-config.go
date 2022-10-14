@@ -19,6 +19,7 @@ func SetupDatabaseConnection() *gorm.DB {
 
 	dbUser := os.Getenv("DB_USER")
 	dbPass := os.Getenv("DB_PASS")
+	// dbPass := ""
 	dbHost := os.Getenv("DB_HOST")
 	dbName := os.Getenv("DB_NAME")
 
